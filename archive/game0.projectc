@@ -2,9 +2,9 @@
 
 [project]
 title = Resonator
-version = 1.0
+version = 0.0.1
 publisher = 
-developer = 
+developer = colin_greens
 write_log = 0
 minimum_log_level = 1
 compress_archive = 1
